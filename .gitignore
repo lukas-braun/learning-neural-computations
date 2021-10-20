@@ -49,3 +49,5 @@ __pycache__/
 env/
 venv/
 
+# Ignore result .csv files
+*.csv
