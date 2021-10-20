@@ -1,6 +1,6 @@
 # Online Learning Of Neural Computations From Sparse Temporal Feedback
 
-This repository is the official implementation of the [NeuroIPS 2021](https://neurips.cc/Conferences/2021) paper [Online Learning Of Neural Computations From Sparse Temporal Feedback]().
+This repository is the official implementation of the [NeurIPS 2021](https://neurips.cc/Conferences/2021) paper [Online Learning Of Neural Computations From Sparse Temporal Feedback]().
 
 ## Requirements
 
