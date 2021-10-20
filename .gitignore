@@ -49,5 +49,9 @@ __pycache__/
 env/
 venv/
 
-# Ignore result .csv files
-*.csv
+######
+# Other
+
+# Ignore compiled experiments
+experiment
+
