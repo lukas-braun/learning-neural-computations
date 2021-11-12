@@ -34,3 +34,22 @@ By default, most scripts start 30 processes to run the experiment from 30 differ
 
 on the top of the respective experiment.cpp file to an appropriate number.
 
+## Citing
+
+If you find the implementation or any of the plots useful and you use it, please cite:
+
+Lukas Braun, & Tim P. Vogels (2021). Online Learning Of Neural Computations From Sparse Temporal Feedback. In _Thirty-Fifth Conference on Neural Information Processing Systems_.
+
+Url: https://openreview.net/forum?id=nJUDGEc69a5
+
+Bibtex:
+```
+@inproceedings{
+    braun2021online,
+    title={Online Learning Of Neural Computations From Sparse Temporal Feedback},
+    author={Lukas Braun and Tim P. Vogels},
+    booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+    year={2021},
+    url={https://openreview.net/forum?id=nJUDGEc69a5}
+}
+```
